@@ -21,6 +21,7 @@
 				<td>${produto.titulo }</td>
 				<td>${produto.descricao }</td>
 				<td>${produto.paginas }</td>
+				<td>${produto.sumarioPath }</td>
 			</tr>
 		</c:forEach>
 	</table>
